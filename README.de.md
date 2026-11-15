@@ -12,8 +12,6 @@ rohes USB HID steuert.
 > Export). Dieses Repository ist das Web-/Experimentier-Gegenstück —
 > dieselbe Brille, anderer Stack (WebXR).
 
-Ursprüngliche AI-Studio-App:
-https://ai.studio/apps/17882e8a-8547-466a-b15d-07d4302a0fd7
 
 ## Funktionen
 
