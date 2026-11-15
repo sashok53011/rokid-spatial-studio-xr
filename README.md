@@ -11,8 +11,6 @@ standalone Android APK**, driving the glasses' IMU over raw USB HID.
 > export). This repository is the web/experimental counterpart —
 > same glasses, WebXR stack.
 
-View the original AI Studio app:
-https://ai.studio/apps/17882e8a-8547-466a-b15d-07d4302a0fd7
 
 ## Features
 
