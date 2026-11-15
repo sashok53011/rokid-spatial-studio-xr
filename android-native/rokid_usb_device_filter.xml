@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Rokid Vendor ID 0x04D2 = 1234 decimal (all Rokid Max / Air USB-C HID interfaces) -->
+    <usb-device vendor-id="1234" />
+    <usb-device vendor-id="1234" product-id="5679" /> <!-- 0x162F Rokid Max (1st Gen) -->
+    <usb-device vendor-id="1234" product-id="5677" /> <!-- 0x162D Rokid Max / Air Bridge -->
+    <usb-device vendor-id="1234" product-id="5680" /> <!-- 0x1630 Rokid Max Rev B -->
+    <usb-device vendor-id="1234" product-id="5681" /> <!-- 0x1631 Rokid Max IMU -->
+    <usb-device vendor-id="1234" product-id="5682" /> <!-- 0x1632 Rokid Max Telemetry -->
+    <usb-device vendor-id="1234" product-id="5689" /> <!-- 0x1639 Rokid Max Series -->
+    <usb-device vendor-id="1234" product-id="8194" /> <!-- 0x2002 Rokid Air / Max Legacy -->
+</resources>

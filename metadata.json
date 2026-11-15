@@ -1,0 +1,6 @@
+{
+  "name": "Rokid Spatial Studio XR",
+  "description": "WebXR virtual prototyping, 360-degree spatial walkthroughs, real-time Rapier3D physics, photorealistic PBR materials, multi-user cloud sync, and Rokid AR glasses SDK telemetry built with XR Blocks.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
